@@ -16,6 +16,7 @@ To understand how deep work hours affect productivity (tasks completed).
 - numpy
 - scikit-learn
 - matplotlib
+- pandas 
 
 ## Output
 - Trained a regression model
